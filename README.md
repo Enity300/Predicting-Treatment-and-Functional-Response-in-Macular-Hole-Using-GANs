@@ -1,1 +1,0 @@
-# Enity300-Predicting-Treatment-and-Functional-Response-in-Macular-Hole-Using-GANs
